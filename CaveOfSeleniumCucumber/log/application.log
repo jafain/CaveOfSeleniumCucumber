@@ -1,0 +1,626 @@
+2020-11-17 12:33:54,116 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:33:54,147 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:33:57,972 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:33:58,236 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:34:22,072 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer*****
+2020-11-17 12:34:22,073 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details*****
+2020-11-17 12:34:29,168 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data*****
+2020-11-17 12:34:34,121 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:34:38,318 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:34:38,322 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:34:41,643 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:34:41,986 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:35:02,219 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id*****
+2020-11-17 12:35:05,595 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:35:09,605 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:35:09,608 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:35:12,825 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:35:13,080 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:35:32,799 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name*****
+2020-11-17 12:35:36,290 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:35:40,328 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:35:40,330 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:35:44,277 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:35:44,522 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:35:56,779 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:35:59,788 [main] INFO CaveOfSeleniumCucumber - ********Click on logout link*****
+2020-11-17 12:36:04,333 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:36:07,344 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:36:11,350 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:36:11,353 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:36:14,432 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:36:14,669 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:36:27,385 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:36:30,392 [main] INFO CaveOfSeleniumCucumber - ********Click on logout link*****
+2020-11-17 12:36:34,964 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:36:37,972 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:36:42,011 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:36:42,013 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:36:45,197 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:36:45,453 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:36:49,864 [main] INFO CaveOfSeleniumCucumber - ********Login passed*****
+2020-11-17 12:43:33,700 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:43:33,726 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:43:38,492 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:43:38,775 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:44:03,400 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer*****
+2020-11-17 12:44:03,402 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details*****
+2020-11-17 12:44:10,359 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data*****
+2020-11-17 12:44:15,189 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:44:19,300 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:44:19,302 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:44:23,061 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:44:23,295 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:44:41,225 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id*****
+2020-11-17 12:44:44,537 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:44:48,715 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:44:48,717 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:44:52,432 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:44:52,674 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:45:18,221 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name*****
+2020-11-17 12:45:21,697 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:45:25,933 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:45:25,936 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:45:28,760 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:45:29,024 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:45:37,969 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:45:40,976 [main] INFO CaveOfSeleniumCucumber - ********Click on logout link*****
+2020-11-17 12:45:45,517 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:45:48,526 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:45:52,700 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:45:52,704 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:45:56,447 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:45:56,701 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:46:08,554 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:46:11,568 [main] INFO CaveOfSeleniumCucumber - ********Click on logout link*****
+2020-11-17 12:46:16,867 [main] INFO CaveOfSeleniumCucumber - ********Login failed*****
+2020-11-17 12:46:19,872 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 12:46:23,933 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 12:46:23,935 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 12:46:27,700 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 12:46:27,929 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 12:46:32,299 [main] INFO CaveOfSeleniumCucumber - ********Login passed*****
+2020-11-17 13:22:31,734 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:22:31,781 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:22:35,028 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:22:35,284 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:22:58,703 [main] INFO CaveOfSeleniumCucumber - ******** Adding new customer*****
+2020-11-17 13:22:58,703 [main] INFO CaveOfSeleniumCucumber - ******** Providing customer details*****
+2020-11-17 13:23:01,835 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:23:01,841 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:23:05,430 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:23:05,692 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:23:24,905 [main] INFO CaveOfSeleniumCucumber - ******** Searching customer by email id*****
+2020-11-17 13:25:08,904 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:25:08,950 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:25:12,241 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:25:12,493 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:25:35,806 [main] INFO CaveOfSeleniumCucumber - ******** Adding new customer*****
+2020-11-17 13:25:35,807 [main] INFO CaveOfSeleniumCucumber - ******** Providing customer details*****
+2020-11-17 13:25:38,713 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:25:38,717 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:25:42,027 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:25:42,275 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:26:01,796 [main] INFO CaveOfSeleniumCucumber - ******** Searching customer by email id*****
+2020-11-17 13:26:08,030 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:26:08,034 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:26:11,194 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:26:11,506 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:26:31,520 [main] INFO CaveOfSeleniumCucumber - ******** Searching customer by name*****
+2020-11-17 13:26:34,951 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser*****
+2020-11-17 13:26:39,005 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:26:39,008 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:26:42,665 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:26:42,893 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:26:55,490 [main] INFO CaveOfSeleniumCucumber - ******** Login failed*****
+2020-11-17 13:26:58,499 [main] INFO CaveOfSeleniumCucumber - ******** Click on logout link*****
+2020-11-17 13:27:03,059 [main] INFO CaveOfSeleniumCucumber - ******** Login failed*****
+2020-11-17 13:27:06,073 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser*****
+2020-11-17 13:27:10,043 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:27:10,046 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:27:13,027 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:27:13,272 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:27:23,380 [main] INFO CaveOfSeleniumCucumber - ******** Login failed*****
+2020-11-17 13:27:26,389 [main] INFO CaveOfSeleniumCucumber - ******** Click on logout link*****
+2020-11-17 13:27:30,828 [main] INFO CaveOfSeleniumCucumber - ******** Login failed*****
+2020-11-17 13:27:33,844 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser*****
+2020-11-17 13:27:37,939 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:27:37,942 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:27:41,115 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:27:41,363 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:27:45,888 [main] INFO CaveOfSeleniumCucumber - ******** Login passed*****
+2020-11-17 13:32:29,468 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:32:29,496 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:32:32,709 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:32:32,959 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:32:56,436 [main] INFO CaveOfSeleniumCucumber - ******** Providing customer details*****
+2020-11-17 13:32:59,451 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:32:59,453 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:33:03,994 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:33:04,212 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:33:24,309 [main] INFO CaveOfSeleniumCucumber - ******** Searching customer by email id*****
+2020-11-17 13:33:30,594 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:33:30,596 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:33:33,754 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:33:34,488 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:33:53,563 [main] INFO CaveOfSeleniumCucumber - ******** Searching customer by name*****
+2020-11-17 13:33:57,033 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser*****
+2020-11-17 13:35:14,391 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:35:14,420 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:35:18,996 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:35:19,244 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:35:46,350 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:35:46,353 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:35:49,613 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:35:49,895 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:36:09,695 [main] INFO CaveOfSeleniumCucumber - ******** Searching customer by email id*****
+2020-11-17 13:36:16,078 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser*****
+2020-11-17 13:36:16,081 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL*****
+2020-11-17 13:36:19,180 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details*****
+2020-11-17 13:36:19,418 [main] INFO CaveOfSeleniumCucumber - ******** Started login process*****
+2020-11-17 13:36:42,369 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser*****
+2020-11-17 13:39:31,959 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 13:39:31,987 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 13:39:35,188 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 13:39:35,441 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 13:40:02,073 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 13:40:02,076 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 13:40:05,823 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 13:40:06,096 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 13:40:34,013 [main] INFO CaveOfSeleniumCucumber - ********Luanching browser*****
+2020-11-17 13:40:34,017 [main] INFO CaveOfSeleniumCucumber - ********Opening URL*****
+2020-11-17 13:40:37,339 [main] INFO CaveOfSeleniumCucumber - ********Providing login details*****
+2020-11-17 13:40:37,632 [main] INFO CaveOfSeleniumCucumber - ********Started login process*****
+2020-11-17 13:40:58,901 [main] INFO CaveOfSeleniumCucumber - ********Closing browser*****
+2020-11-17 14:51:21,005 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 14:51:21,058 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 14:51:24,427 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 14:51:24,691 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 14:51:48,966 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 14:51:48,966 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 14:51:56,039 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 14:52:01,156 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 14:52:05,197 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 14:52:05,200 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 14:52:08,371 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 14:52:08,630 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 14:52:27,623 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 14:52:30,955 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 14:52:35,211 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 14:52:35,213 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 14:52:37,791 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 14:52:38,054 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 14:52:55,215 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 14:52:58,691 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 14:58:53,188 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 14:58:53,223 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 14:58:56,678 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 14:58:56,920 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 14:59:28,687 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 14:59:28,688 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 14:59:35,653 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 14:59:40,477 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 14:59:44,745 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 14:59:44,748 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 14:59:48,469 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 14:59:48,696 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 15:00:09,243 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 15:00:12,708 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 15:00:16,779 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 15:00:16,782 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 15:00:20,231 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 15:00:20,468 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 15:00:38,682 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 15:00:42,171 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 15:00:46,245 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 15:00:46,247 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 15:00:49,715 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 15:00:49,954 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 15:00:59,950 [main] INFO CaveOfSeleniumCucumber - ******** Login failed********
+2020-11-17 15:01:02,960 [main] INFO CaveOfSeleniumCucumber - ******** Click on logout link********
+2020-11-17 15:01:07,497 [main] INFO CaveOfSeleniumCucumber - ******** Login failed********
+2020-11-17 15:01:10,512 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 15:01:14,564 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 15:01:14,568 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 15:01:17,931 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 15:01:18,173 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 15:01:30,298 [main] INFO CaveOfSeleniumCucumber - ******** Login failed********
+2020-11-17 15:01:33,309 [main] INFO CaveOfSeleniumCucumber - ******** Click on logout link********
+2020-11-17 15:01:37,880 [main] INFO CaveOfSeleniumCucumber - ******** Login failed********
+2020-11-17 15:01:40,894 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 15:01:45,035 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 15:01:45,038 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 15:01:50,631 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 15:01:50,865 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 15:01:55,640 [main] INFO CaveOfSeleniumCucumber - ******** Login passed********
+2020-11-17 16:50:29,765 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:50:29,792 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:50:32,955 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:50:33,243 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:50:57,661 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 16:50:57,662 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 16:51:04,621 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 16:51:09,499 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 16:51:13,622 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:51:13,626 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:51:17,066 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:51:17,315 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:51:36,071 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 16:51:39,438 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 16:51:43,422 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:51:43,425 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:51:46,426 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:51:46,698 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:52:05,183 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 16:52:08,574 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 16:53:53,227 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:53:53,339 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:53:56,017 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:53:56,228 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:54:23,061 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:54:23,070 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:54:25,313 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:54:25,500 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:54:42,582 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 16:54:46,617 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 16:54:53,454 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:54:53,459 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:54:56,197 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:54:56,448 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:55:13,130 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 16:55:17,217 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 16:57:37,784 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:57:37,842 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:57:42,167 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:57:42,348 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:58:13,981 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:58:13,989 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:58:16,238 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:58:16,471 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:58:34,775 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 16:58:39,775 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 16:58:46,620 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 16:58:46,627 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 16:58:49,548 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 16:58:49,696 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 16:59:08,454 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 16:59:13,485 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 17:02:12,602 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:02:12,766 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:02:15,154 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:02:15,310 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:02:45,228 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:02:45,233 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:02:47,600 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:02:47,732 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:03:07,764 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 17:03:13,897 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 17:03:22,537 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:03:22,543 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:03:25,568 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:03:25,744 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:03:45,179 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 17:08:10,641 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:08:10,707 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:08:13,336 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:08:13,486 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:08:33,674 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:08:33,680 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:08:36,104 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:08:36,259 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:08:52,056 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:08:52,061 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:08:55,088 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:08:55,301 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:10:49,607 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:10:49,683 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:10:52,889 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:10:53,065 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:11:13,813 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:11:13,819 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:11:48,697 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:11:48,726 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:11:52,425 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:11:52,675 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:12:21,855 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 17:12:21,856 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 17:12:28,787 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 17:12:35,981 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 17:12:40,579 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:12:40,584 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:12:46,064 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:12:46,311 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:13:09,697 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 17:13:15,014 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 17:13:19,327 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 17:13:19,330 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 17:13:23,065 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 17:13:23,338 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 17:13:48,676 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 17:13:54,166 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:16:42,151 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:16:42,213 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:16:45,193 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:16:45,332 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:17:18,956 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:17:18,963 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:17:22,015 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:17:22,168 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:17:43,218 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 18:17:47,233 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:17:54,756 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:17:54,763 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:17:57,913 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:17:58,095 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:18:17,158 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 18:18:21,154 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:19:38,122 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:19:38,154 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:19:41,979 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:19:42,224 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:20:05,614 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 18:20:05,615 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 18:20:12,636 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 18:20:18,099 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:20:22,301 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:20:22,304 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:20:30,357 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:20:30,583 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:20:47,694 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 18:20:51,021 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:20:55,126 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:20:55,130 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:20:58,946 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:20:59,197 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:21:19,613 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 18:21:23,214 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:29:58,037 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:29:58,102 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:30:01,265 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:30:01,476 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:30:29,917 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:30:29,924 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:30:33,791 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:30:34,017 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:30:54,123 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 18:30:58,339 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:31:06,188 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:31:06,194 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:31:10,000 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:31:10,164 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:31:40,844 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 18:31:44,807 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:58:32,326 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:58:32,370 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:58:34,848 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:58:34,996 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:58:57,158 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:58:57,166 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:59:00,163 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:59:00,354 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:59:13,270 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 18:59:14,553 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 18:59:21,477 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 18:59:21,485 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 18:59:24,734 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 18:59:24,912 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 18:59:40,058 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 18:59:41,361 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 19:00:10,383 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 19:00:10,420 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 19:00:14,137 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 19:00:14,381 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 19:00:29,971 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 19:00:29,972 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 19:00:34,296 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 19:00:36,471 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 19:00:40,756 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 19:00:40,759 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 19:00:44,408 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 19:00:44,663 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 19:00:56,889 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 19:01:00,298 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 19:01:00,302 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 19:01:04,101 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 19:01:04,363 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 19:01:17,366 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 19:04:23,691 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 19:04:23,725 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 19:04:27,648 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 19:04:27,919 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 19:04:54,225 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-17 19:04:54,226 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-17 19:05:01,139 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-17 19:05:06,335 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 19:05:10,463 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 19:05:10,467 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 19:05:13,616 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 19:05:13,912 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 19:05:33,824 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-17 19:05:37,215 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-17 19:05:41,491 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-17 19:05:41,496 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-17 19:05:44,694 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-17 19:05:44,924 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-17 19:06:03,821 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-17 19:06:07,352 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 11:03:19,222 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:03:19,261 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:03:23,041 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:03:23,289 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:03:46,451 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-18 11:03:46,453 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-18 11:03:53,491 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-18 11:03:58,428 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 11:15:24,833 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:15:24,884 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:15:28,965 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:15:29,241 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:16:04,799 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-18 11:16:04,800 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-18 11:16:11,795 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-18 11:16:16,905 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 11:16:21,025 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:16:21,029 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:16:24,198 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:16:24,427 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:16:55,573 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-18 11:17:28,825 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:17:28,829 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:17:32,064 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:17:32,600 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:17:51,115 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-18 11:19:42,961 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:19:42,989 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:19:46,214 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:19:46,619 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:20:09,834 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-18 11:20:09,834 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-18 11:20:16,831 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-18 11:20:21,599 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 11:20:25,753 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:20:25,763 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:20:32,325 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:20:32,586 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:20:51,883 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-18 11:21:24,992 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:21:24,996 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:21:28,084 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:21:28,339 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:21:46,614 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-18 11:25:32,037 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:25:32,074 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:25:35,335 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:25:35,603 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:25:59,367 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-18 11:25:59,367 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-18 11:26:06,278 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-18 11:26:11,108 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 11:26:15,265 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:26:15,268 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:26:17,810 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:26:18,063 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:26:35,081 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-18 11:27:08,092 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:27:08,095 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:27:11,446 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:27:11,702 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:27:30,939 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-18 11:44:56,877 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 11:44:56,907 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 11:45:00,725 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 11:45:00,984 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 11:45:24,147 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-18 11:45:24,147 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-18 11:45:31,162 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-18 11:45:36,396 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 12:34:22,362 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 12:34:22,426 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 12:34:25,707 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 12:34:25,995 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 12:34:54,165 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-18 12:34:54,166 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-18 12:35:01,125 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-18 12:35:06,094 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 12:35:10,367 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 12:35:10,372 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 12:35:13,604 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 12:35:13,843 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 12:35:35,206 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-18 12:35:38,602 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-18 12:35:42,694 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-18 12:35:42,697 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-18 12:35:45,829 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-18 12:35:46,076 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-18 12:36:06,055 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-18 12:36:09,558 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:04:42,177 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:04:42,239 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:04:45,734 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:04:46,517 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:05:21,319 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-20 09:05:21,319 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-20 09:05:28,566 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-20 09:05:33,858 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:05:41,864 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:05:41,869 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:05:45,426 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:05:45,717 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:06:08,510 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:06:08,518 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:06:12,324 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:06:12,756 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:12:10,621 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:12:10,646 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:12:14,696 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:12:14,994 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:12:38,648 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-20 09:12:38,648 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-20 09:12:45,601 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-20 09:12:51,221 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:12:55,213 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:12:55,218 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:12:58,227 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:12:58,489 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:13:16,398 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-20 09:13:19,776 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:13:23,936 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:13:23,940 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:13:28,134 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:13:28,366 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:13:54,710 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-20 09:13:58,300 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:43:40,844 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:43:40,879 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:43:44,062 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:43:44,329 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:44:08,307 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-20 09:44:08,307 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-20 09:44:15,275 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-20 09:44:20,174 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:44:24,237 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:44:24,243 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:44:28,945 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:44:29,197 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:44:48,638 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-20 09:44:52,045 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 09:44:55,930 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 09:44:55,942 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 09:45:02,202 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 09:45:02,433 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 09:45:22,084 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-20 09:45:25,586 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 10:12:28,772 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 10:12:28,808 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 10:12:32,934 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 10:12:33,721 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 10:12:54,918 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 10:12:54,924 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 10:12:58,403 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 10:12:58,660 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 10:13:23,554 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-20 10:13:56,736 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 10:13:56,742 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 10:14:01,196 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 10:14:01,434 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 10:14:19,217 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-20 12:32:32,666 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 12:32:32,698 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 12:32:36,985 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 12:32:37,306 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 12:33:00,869 [main] INFO CaveOfSeleniumCucumber - ********Adding new customer********
+2020-11-20 12:33:00,869 [main] INFO CaveOfSeleniumCucumber - ********Providing customer details********
+2020-11-20 12:33:08,070 [main] INFO CaveOfSeleniumCucumber - ********Saving customer data********
+2020-11-20 12:33:13,082 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 12:33:17,034 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 12:33:17,038 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 12:33:20,965 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 12:33:21,230 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 12:33:40,522 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by email id********
+2020-11-20 12:33:43,911 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
+2020-11-20 12:33:47,861 [main] INFO CaveOfSeleniumCucumber - ******** Luanching browser********
+2020-11-20 12:33:47,864 [main] INFO CaveOfSeleniumCucumber - ******** Opening URL********
+2020-11-20 12:33:51,788 [main] INFO CaveOfSeleniumCucumber - ******** Providing login details********
+2020-11-20 12:33:52,165 [main] INFO CaveOfSeleniumCucumber - ******** Started login process********
+2020-11-20 12:34:11,547 [main] INFO CaveOfSeleniumCucumber - ********Searching customer by name********
+2020-11-20 12:34:15,081 [main] INFO CaveOfSeleniumCucumber - ******** Closing browser********
